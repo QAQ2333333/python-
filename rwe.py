@@ -7,7 +7,7 @@ import pygame
 import time
 import speech_recognition as sr
 
-dashscope.api_key = "sk-193173b3f5cc4b35ab46d45ffc59b39f"
+dashscope.api_key = ""
 
 
 def speech():
